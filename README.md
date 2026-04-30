@@ -15,6 +15,7 @@ Aplicação web desenvolvida em **React** que consome dados da **PokeAPI**, perm
 
 ## 🌐 Aplicação
 
+Link:
 https://pokedex-joao-s-projects1.vercel.app
 ```
 
