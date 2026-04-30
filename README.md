@@ -56,25 +56,25 @@ Aplica filtros e busca em tempo real
 
 ### 🏠 Tela inicial
 
-![Home](asset/home.png)
+![Home](assets/home.png)
 
 ---
 
 ### 📏 Filtro por altura
 
-![Altura](asset/altura.png)
+![Altura](assets/altura.png)
 
 ---
 
 ### 🎯 Filtro por tipo
 
-![Tipo](asset/tipo.png)
+![Tipo](assets/tipo.png)
 
 ---
 
 ### ⚖️ Filtro por peso
 
-![Peso](asset/peso.png)
+![Peso](assets/peso.png)
 
 ---
 
